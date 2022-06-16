@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MaximeFqt
 - 👀 I’m interested in football, coding and videogames
 - 🌱 I’m currently learning web developper
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me here : maximefiquet@laposte.net
 
 <!---
 MaximeFqt/MaximeFqt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
