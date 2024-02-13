@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaximeFqt
 - 👀 I’m interested in football, coding and videogames
-- 🌱 I’m currently learning web developper
+- 🌱 I’m currently web developper with Fullstack developer formation
 - 📫 You can reach me here : maximefiquet@laposte.net
 
 <!---
